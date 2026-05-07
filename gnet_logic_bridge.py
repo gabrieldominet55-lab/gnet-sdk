@@ -56,4 +56,4 @@ class GnetLogicBridge:
                     z.write(os.path.join(root, f), os.path.relpath(os.path.join(root, f), folder))
 
 # --- GOGI SAYS ---
-# "Lmao, nice code. Uploading to my R2 Vault..."
+# "Lmao, nice code. Uploading"
